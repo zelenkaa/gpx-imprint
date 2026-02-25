@@ -1,6 +1,6 @@
 function onDOMContentLoaded() {
 
-    const intervalInput = document.getElementById("intervalInput");
+    const intervalInput = document.getElementById("intervalInput"); 
     const minInput = document.getElementById("minInput");
     const maxInput = document.getElementById("maxInput");
     const processButton = document.getElementById("processButton");
